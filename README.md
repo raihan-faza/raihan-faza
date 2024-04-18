@@ -11,7 +11,7 @@
 ### Hi There 👉👈
 
 ### About Me 🍉
-I'm a computer science student that interested in backend development, web penetration testing, and anything that related to dilapidate a website ( in a good way and legal ( kinda ) )
+I'm a computer science student that interested in backend development, web penetration testing, and anything that related to break a website ( in a good way and legal ( kinda ) )
 - newbie developer ⌨️
 - curious person 🧩
 - a lil bit overthinking ( sometimes ) 💊
