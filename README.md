@@ -40,6 +40,3 @@ I'm a computer science student that interested in backend development, web penet
   
   
   
-### Lil Stats 🤏
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raihan-faza&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
