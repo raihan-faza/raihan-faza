@@ -25,18 +25,3 @@ I'm a computer science student that interested in backend development, web penet
     <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg" title="Django" alt="Django" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/vim/vim-original.svg" title="Django" alt="Django" width="40" height="40"/>&nbsp;
 </div>
-
-### My past projects 
-- Group Project
-  
-  ![screenshots_005](https://github.com/raihan-faza/raihan-faza/assets/92535314/2de6c32c-a115-445a-af90-73e22b699be8)
-
-- Personal Project
-
-  ![portoo](https://github.com/raihan-faza/raihan-faza/assets/92535314/0865c951-e6b5-47fc-8233-6c32f23a7801) 
-
-  ![portooooo](https://github.com/raihan-faza/raihan-faza/assets/92535314/f2dc060a-8caf-4b04-89d4-a80bb3e74f3e)
-
-  
-  
-  
