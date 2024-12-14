@@ -11,11 +11,10 @@
 ### Hi There 👉👈
 
 ### About Me 🍉
-I'm a computer science student that interested in backend development, web penetration testing, and anything that related to break a website ( in a good way and legal ( kinda ) )
-- newbie developer ⌨️
+I'm a computer science student that interested in backend development, web penetration testing, and machine learning.
 - curious person 🧩
-- a lil bit overthinking ( sometimes ) 💊
 - script kiddie 📄
+- introvert 🔇
 
 ### Language and Tools ⚙ 
 <div>
